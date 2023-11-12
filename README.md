@@ -1,3 +1,5 @@
+### Hi there 👋, My name is Tahsin Masruf
+#### Researcher Enthusiast | ML/Data Engineer | Data & Machine Learning
 # 💫 About Me:
 I'm passionate about using data to solve complex problems and create innovative solutions. With a solid foundation in programming and statistical analysis, I'm excited to leverage my skills and knowledge to make an impact in the field of Data Engineering. 
 
